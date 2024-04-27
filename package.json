@@ -1,0 +1,17 @@
+{
+  "name": "elevenlabs-tomato-pronunciation-0o271w",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/mordiscos/elevenlabs-tomato-pronunciation-0o271w.git",
+  "author": "mordisco <mordisco@mordisco.xyz> (https://www.mordisco.xyz)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "elevenlabs": "^0.4.0",
+    "fs": "^0.0.1-security"
+  }
+}
